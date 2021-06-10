@@ -1,0 +1,11 @@
+while wait(8) do
+game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-90.4, 0.111952, -117.95)
+wait(0.2)
+game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-271.438, 0.110028, -419.87)
+wait(0.2)
+game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-85.62, 0.129552, -719.255)
+wait(0.2)
+game:GetService('Players').LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-265.848, 0.1, -1019.94)
+wait(0.2)
+game.Players.LocalPlayer.Character.Humanoid.Health = 0
+end
